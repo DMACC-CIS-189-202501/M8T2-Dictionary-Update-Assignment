@@ -1,6 +1,4 @@
-# Assignment-Starter-Repo-Template
-
-TODO: Update the above to your repo name
+# M8 T2: Dictionary Update Assignment
 
 ## Instructions for students
 
@@ -9,4 +7,10 @@ TODO: Update the above to your repo name
 
 ### Directions - Copy/Pasted from Canvas
 
-TODO
+Go through the TODOS in assignment.py.
+
+In short, your primary goal is to finish the main funciton that will:
+
+* Initialize a dictionary of Key=name(string), Value=phone_number(string)
+* finish a function that will prompt for user input and will update the dictionary witha  new name and number pair
+* finish a function that will prompt for user input and will update the phone number of an existing name
